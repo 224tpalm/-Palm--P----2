@@ -1,7 +1,7 @@
 {
     "images": [
         {
-            "imgPath": "[Palm]-P2/img/places/winter.png",
+            "imgPath": "/img/places/winter.png",
             "imgLocation": "North Pole",
             "description": "Pet Rock in Winter",
             "date": "01/29/2024"
@@ -19,7 +19,7 @@
             "date": "01/29/2024"
         },
         {
-            "imgPath": "/[PALM]-P2/img/places/fall.png",
+            "imgPath": "/img/places/fall.png",
             "imgLocation": "Haunted House",
             "description": "Pet Rock in Fall",
             "date": "10/31/2023"
